@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+
+#ancestry_info {
+	text-transform: none;
+	font-size: 25px;
+}
+#profo_title {
+ 	font-size: 30px;
+}
+

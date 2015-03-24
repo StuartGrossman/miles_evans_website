@@ -1,0 +1,2 @@
+class DialsoapController < ApplicationController
+end

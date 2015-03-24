@@ -1,0 +1,2 @@
+class OneoffsController < ApplicationController
+end
