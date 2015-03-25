@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-
+  resources :trunkclub
+  resources :dialsoap
   resources :home
   resources :mailer
   resources :ancestry
