@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :louis
+  resources :oneoffs
   resources :trunkclub
   resources :dialsoap
   resources :home

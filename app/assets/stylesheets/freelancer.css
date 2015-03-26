@@ -209,7 +209,7 @@ section.success {
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 60%;
     opacity: 0;
     background: #19A3FF;
     -webkit-transition: all ease .5s;
@@ -224,7 +224,7 @@ section.success {
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
-    width: 100%;
+    width: 60%;
     height: 20px;
     margin-top: -12px;
     text-align: center;
