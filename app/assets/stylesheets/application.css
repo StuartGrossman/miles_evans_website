@@ -119,6 +119,7 @@
         .photobanner {
             height: 233px;
             width: 4500px;
+            overflow: hidden;
             margin-bottom: 80px;
         }
 
