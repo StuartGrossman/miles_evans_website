@@ -13,18 +13,12 @@
  *= require_tree .
  *= require_self
  */
- .photobanner {
-    height: 233px;
-    width: 800px;
-    margin-bottom: 80px;
-    margin-right: 500px;
-}
+ 
 #photobannertop{
 	margin-top: 100px;
 	margin-bottom: 10px;
-    margin-right: 900px;
+    margin-right: 100px;
     height: 200px;
-    width: 1450px;
     overflow: hidden;
 }
 #picspace{
@@ -49,15 +43,15 @@
 #topmaincontact {
 	height: 79px;
 }
-* {margin: 0; padding: 0;}
+
 
        
-        #container12 {
+       /* #container12 {
             width: 1000px;
             overflow: hidden;
             margin: 50px auto;
             background: gray;
-        }
+        }*/
 
         /*photobanner*/
 
