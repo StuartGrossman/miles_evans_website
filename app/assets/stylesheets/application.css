@@ -58,7 +58,9 @@ line-height: 2em;
 	height: 10px;
 }
 
-
+#topWrite {
+    height: 20px;
+}
        
        /* #container12 {
             width: 1000px;
